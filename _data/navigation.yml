@@ -1,0 +1,10 @@
+# Site navigation links
+
+- title: About Me
+  url: /about/
+
+- title: Archive
+  url: /posts/
+
+- portfolio: Portfolio 
+  url: http://www.jaygabriels.com
