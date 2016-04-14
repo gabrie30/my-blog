@@ -8,7 +8,7 @@ comments: true
 
 ### JavaScript
 
-Recently I've been tinkering around with JavaScript and started looking more into the JQuery source code and one thing that immidately caught my eye is how often they chain ternary opporators. It comes up quite a bit, and is something I've never thought to do. I wouldn't say it reads more clearly so I don't understand the benefit of it yet but I'm thinking about using it in one of my projects.
+Recently I've been tinkering around with JavaScript and started looking more into the JQuery source code and one thing that immediately caught my eye is how often they chain ternary opporators. It comes up quite a bit, and is something I've never thought to do. I wouldn't say it reads more clearly so I don't understand the benefit of it yet but I'm thinking about using it in one of my projects.
 
 ### Ruby
 
